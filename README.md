@@ -20,8 +20,8 @@ then load the web pages on
 `http://localhost:8000/`
 
 
-![](screenshots 721.jpg?raw=true)
-![](screenshots 1155.jpg?raw=true)
+![](screenshots/721.jpg?raw=true)
+![](screenshots/1155.jpg?raw=true)
 
 
 Questions?  
