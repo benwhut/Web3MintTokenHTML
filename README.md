@@ -3,8 +3,8 @@ Example of how to mint ERC-721 and ERC-1155 tokens through HTML web pages using 
 
 1. Enter the address and ABI of the Smart Contract you want to interact with  
 You can get this from etherscan.io  
-`const ABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs" ... ];`
-`const ADDRESS = "0x00000000000000000000000000000000";`
+`const ABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs" ... ];`  
+`const ADDRESS = "0x00000000000000000000000000000000";`  
 
 2. Set the amount of ETH to be paid as the 'value' (in Wei) - this is only for index721.html  
 ```
@@ -17,7 +17,7 @@ document.getElementById('mint').onclick = () => {
 `python3 -m http.server`  
 
 then load the web pages on  
-`http://localhost:8000/`
+`http://localhost:8000/`  
 
 The HTML web pages are barebones for simplicity (no styling). Once you connect your Metamask wallet, it should look similar to these:  
 
