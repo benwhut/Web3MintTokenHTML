@@ -16,7 +16,7 @@ document.getElementById('mint').onclick = () => {
 3. the web pages MUST run on a web server! To run a simple local web server using Python, enter  
 `python3 -m http.server`  
 
-then load the web page on  
+then load the web pages on  
 `http://localhost:8000/`
 
 
