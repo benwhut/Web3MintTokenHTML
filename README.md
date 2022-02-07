@@ -1,5 +1,5 @@
 # Web3MintTokenHTML
-Example of how to Mint ERC-721 and ERC-1155 Tokens through HTML web page using Web3 JS and Metamask
+Example of how to mint ERC-721 and ERC-1155 tokens through HTML web pages using Web3 JS and Metamask
 
 1. Enter the address and ABI of the Smart Contract you want to interact with  
 You can get this from etherscan.io  
