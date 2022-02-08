@@ -19,7 +19,7 @@ document.getElementById('mint').onclick = () => {
     Then load the web pages on  
     `http://localhost:8000/`  
 
-The HTML web pages are barebones for simplicity (no styling). Once you connect your Metamask wallet, it should look similar to these:  
+The HTML web pages are barebones (no styling) for clarity. Once you connect your Metamask wallet, it should look similar to these:  
 
 index721.html  
 ![](screenshots/721.jpg?raw=true)
