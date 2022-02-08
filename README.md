@@ -13,10 +13,10 @@ document.getElementById('mint').onclick = () => {
 }
  ```
 
-3. the web pages MUST run on a web server! To run a simple local web server using Python, enter  
+3. The web pages MUST run on a web server! To run a simple local web server using Python, enter  
 `python3 -m http.server`  
 
-  then load the web pages on  
+  Then load the web pages on  
   `http://localhost:8000/`  
 
 The HTML web pages are barebones for simplicity (no styling). Once you connect your Metamask wallet, it should look similar to these:  
