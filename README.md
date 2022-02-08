@@ -27,7 +27,7 @@ index721.html
 index1155.html  
 ![](screenshots/1155.jpg?raw=true)
 
-When pressed, the mint button will trigger your Metamask wallet to interact with the smart contract and mint a token(s).
+When pressed, the mint button will trigger your Metamask wallet to interact with the smart contract and mint (a) token(s).
 
 Questions?  
 benwhut@gmail.com
