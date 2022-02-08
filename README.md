@@ -3,7 +3,7 @@ Example of how to mint ERC-721 and ERC-1155 tokens through HTML web pages using 
 
 1. Enter the address and ABI of the Smart Contract you want to interact with  
 You can get this from etherscan.io  
-`const ABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs" ... ];`  
+`const ABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"} ... ];`  
 `const ADDRESS = "0x00000000000000000000000000000000";`  
 
 2. Set the amount of ETH to be paid as the 'value' (in Wei) - this is only for index721.html  
